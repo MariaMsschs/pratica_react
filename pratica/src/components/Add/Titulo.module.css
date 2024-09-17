@@ -1,0 +1,22 @@
+.container{
+    justify-content: center;
+}
+
+.ret {
+    display: flex;
+    background-color: #FF0000;
+    color:#FFFFFF;
+    height: 25px;
+    width: 50px;
+    border-radius: 6px;
+    justify-content: center;
+    align-items: center;
+    text-justify: center;
+    margin: 20px
+}
+
+
+.nome{
+    margin: 20px;
+    font-size: large;
+}
