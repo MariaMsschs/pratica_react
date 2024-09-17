@@ -27,8 +27,8 @@
     height: 30px;
     width: 100px;
     border-radius: 6px;
-    justify-content: center;
-    align-items: center;
+    justify-self: center;
+    align-self: flex-end;
     text-justify: center;
     margin: 20px
 }

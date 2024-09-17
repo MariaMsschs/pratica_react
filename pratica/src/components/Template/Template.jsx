@@ -12,7 +12,7 @@ const Template = ({plano, imgSrc}) => {
                     <img src={imgSrc} alt="" className={styles.ind} />
                     <p>PNG</p>
                 </div>
-                <div className={styles.ret}>red</div>
+                <div className={styles.ret}>Try Now</div>
             </div>
         </>
     )
